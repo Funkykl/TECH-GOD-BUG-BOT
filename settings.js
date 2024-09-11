@@ -16,12 +16,12 @@ global.ytname = "YT: Tech-God"
 global.socialm = "GitHub: techgod143"
 global.location = "India, Up, Rampur"
 
-global.ownernumber = '917466008456'  //creator number
-global.ownername = '🐛Tech god' //owner name
-global.botname = 'Tech God ᵇᵘᵍ ᵇᵒᵗ' //name of the bot
+global.ownernumber = '24162266840'  //creator number
+global.ownername = 'OKLMBOY' //owner name
+global.botname = 'OKLMBOY' //name of the bot
 
 //sticker details
-global.packname = 'Sticker By'
+global.packname = 'Sticker By OKLMBOY'
 global.author = 'Tech-God\n\nContact: +917466008456'
 
 //console view/theme
